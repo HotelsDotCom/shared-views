@@ -1,0 +1,26 @@
+<idea-plugin version="2">
+  <id>com.hotels.intellij.plugins.sharedviews</id>
+  <name>Shared Views</name>
+  <version>1.1</version>
+  <vendor email="jbesson@hotels.com" url="http://www.hotels.com">Hotels.com</vendor>
+
+  <description><![CDATA[
+      This plugin allows the grouping of classes and/or files into a view which can be shared by committing into a VCS.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      <ul>
+        <li><strong>1.1</strong> Added infinite depth tree structure.</li>
+        <li><strong>1.0</strong> Initial version.</li>
+      </ul>
+    ]]>
+  </change-notes>
+
+  <!-- please see http://confluence.jetbrains.com/display/IDEADEV/Build+Number+Ranges for description -->
+  <idea-version since-build="131"/>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <projectViewPane implementation="com.hotels.intellij.plugins.sharedviews.pane.SharedViewPane"/>
+  </extensions>
+
+</idea-plugin>
