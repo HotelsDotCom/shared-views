@@ -94,7 +94,7 @@ Thanks goes to:
 
 1. Krishnakumar Govindarajan 
 2. Nerses Aznauryan 
-3. Paul Wheeler 
+3. [Paul Wheeler](https://github.com/pwheel)
 4. [Adrian Woodhead](https://github.com/massdosage) 
 
 ### Suggested features
