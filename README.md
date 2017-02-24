@@ -5,6 +5,10 @@
 
 Shared Views is an IntelliJ IDEA plugin that provides an alternative view of the project code defined by "views". These "view" definitions may be committed as part
 of the code base and shared amongst a team. 
+
+### How to obtain the plugin
+
+You can get the plugin from the JetBrains Repository through IntelliJ or you can download from the [JetBrains Repository](https://plugins.jetbrains.com/idea/plugin/7911-shared-views).
  
 ### How to build and install
 ----------------------------
